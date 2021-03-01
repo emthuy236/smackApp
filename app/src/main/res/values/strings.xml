@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmackApp</string>
+    <string name="open">Open navigation Drawer</string>
+    <string name="close">Close navigaion Drawer</string>
+    <string name="message">Message:</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>

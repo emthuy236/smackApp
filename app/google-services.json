@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737812640164",
+    "project_id": "chatapp-4aefc",
+    "storage_bucket": "chatapp-4aefc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737812640164:android:77cf97d04a35921f565131",
+        "android_client_info": {
+          "package_name": "com.example.smackapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737812640164-63cq605f7ctb1d2cpslcs8b9t9ajlmfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBASyyPZX_yrE7jrzsCe739Bfm6hHNx7J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737812640164-63cq605f7ctb1d2cpslcs8b9t9ajlmfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
